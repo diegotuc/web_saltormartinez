@@ -22,10 +22,14 @@ body{
 
 }
 
+header{
+    background-image: url("https://img.freepik.com/foto-gratis/fondo-azul-degradado-lujo-abstracto-azul-oscuro-liso-banner-estudio-vineta-negra_1258-101342.jpg");
+}
+
 nav{
     width: 100%;
    display: flex; 
-   background-image: url("https://img.freepik.com/foto-gratis/fondo-azul-degradado-lujo-abstracto-azul-oscuro-liso-banner-estudio-vineta-negra_1258-101342.jpg");
+   
    padding: 20px 0 20px 0;
    justify-content: center;
    align-items: center;
